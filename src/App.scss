@@ -17,3 +17,7 @@
 .icon {
   @apply text-2xl mr-4;
 }
+
+.icon-ellipsis {
+  transform: rotate(90deg);
+}
